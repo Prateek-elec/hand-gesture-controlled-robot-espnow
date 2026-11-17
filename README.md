@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hand-Gesture-Controlled Robot (ESP-NOW)
+<img src="docs/banner.png" alt="Gesture-Controlled Robot" width="100%"/>
 
 **Tilt your hand, and the robot drives. An MPU6050 on your hand reads the tilt, an ESP8266 sends it over ESP-NOW (no Wi-Fi router, no app), and a second ESP8266 drives the motors through an MDD10A driver.**
 
@@ -14,6 +14,13 @@
 </div>
 
 ---
+
+## 🔥 Why it hits different
+
+- ✋ **Drive with your hand:** tilt forward, back, left or right and the robot follows.
+- 📶 **ESP-NOW, no router:** peer-to-peer and low latency, works anywhere.
+- ⚡ **Fast loop:** the hand unit reads the MPU6050 every 10 ms.
+- 🎬 **Demo video included:** see it run before you build it.
 
 ## How it works
 
@@ -62,8 +69,16 @@ Quick reference: MPU6050 SDA → D2 (GPIO4), SCL → D1 (GPIO5). MDD10A PWM1/DIR
 
 [MIT](LICENSE) © Prateek Sarkar
 
+---
+
 <div align="center">
 
-**Built one? Star ⭐ the repo and share a video of your build.**
+### If this made you go *"wait, that's sick"* 👀
+
+**Drop a ⭐ so more builders find it, and share it with someone who'd build one.**
+
+[![Share on X](https://img.shields.io/badge/share%20on-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/tweet?text=Tilt%20your%20hand%20and%20the%20robot%20drives%20%E2%9C%8B%F0%9F%A4%96&url=https%3A%2F%2Fgithub.com%2FPrateek-elec%2Fhand-gesture-controlled-robot-espnow)
+[![Share on LinkedIn](https://img.shields.io/badge/share%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2FPrateek-elec%2Fhand-gesture-controlled-robot-espnow)
+[![Follow](https://img.shields.io/badge/follow-@Prateek--elec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prateek-elec)
 
 </div>
