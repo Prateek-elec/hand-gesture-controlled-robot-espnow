@@ -15,7 +15,7 @@
 
 ---
 
-## 🔥 Why it hits different
+## Highlights
 
 - ✋ **Drive with your hand:** tilt forward, back, left or right and the robot follows.
 - 📶 **ESP-NOW, no router:** peer-to-peer and low latency, works anywhere.
@@ -73,7 +73,7 @@ Quick reference: MPU6050 SDA → D2 (GPIO4), SCL → D1 (GPIO5). MDD10A PWM1/DIR
 
 <div align="center">
 
-### If this made you go *"wait, that's sick"* 👀
+### Found this useful?
 
 **Drop a ⭐ so more builders find it, and share it with someone who'd build one.**
 
