@@ -9,7 +9,9 @@
 ![Arduino](https://img.shields.io/badge/Arduino-IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-22c55e?style=for-the-badge)
 
-### ▶️ [Watch the demo video](media/demo.mp4)
+<img src="media/demo.gif" alt="Tilting the hand unit steers the robot" width="300"/>
+
+<sub>Tilt the hand unit and the robot follows. <a href="media/demo.mp4">Full-quality video</a></sub>
 
 </div>
 
